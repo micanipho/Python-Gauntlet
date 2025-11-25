@@ -20,20 +20,20 @@ python test_problems.py
 
 - FAILED: Read the error message carefully—it tells you exactly what went wrong
 
-  ## The Levels
+## The Levels
 
-  - Level 1: String Cleaning (Warm-up)
+- Level 1: String Cleaning (Warm-up)
 
-  - Level 2: Dictionary Grouping (Restructuring Data)
+- Level 2: Dictionary Grouping (Restructuring Data)
 
-  - Level 3: Sum of Primes (Math Logic)
+- Level 3: Sum of Primes (Math Logic)
 
-  - Level 4: String Compression (Algorithms)
+- Level 4: String Compression (Algorithms)
 
-  - Level 5: Second Largest (State Tracking)
+- Level 5: Second Largest (State Tracking)
 
-  -  Level 6: Matrix Sum (2D Lists)
+-  Level 6: Matrix Sum (2D Lists)
 
-   - Level 7: IPv4 Validator (Complex Parsing)
+ - Level 7: IPv4 Validator (Complex Parsing)
 
 Good luck! 
